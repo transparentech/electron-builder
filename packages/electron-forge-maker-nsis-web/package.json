@@ -11,6 +11,6 @@
     "*.js"
   ],
   "dependencies": {
-    "app-builder-lib": "^19.30.3"
+    "app-builder-lib": "0.0.0-semantic-release"
   }
 }
